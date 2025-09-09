@@ -18,7 +18,7 @@ Aplicar el método de Revisión Sistemática de la Literatura (RSL) para identif
 ### 2. Establecer criterios de inclusión y exclusión  
 - Decidir qué estudios se van a considerar.  
 - **Ejemplos**:  
-  - Solo artículos de los últimos 10 años.  
+  - Solo artículos de los últimos 5 años.  
   - Publicaciones en inglés o español.  
   - Estudios empíricos, excluyendo opiniones o blogs.  
 
@@ -33,6 +33,9 @@ Aplicar el método de Revisión Sistemática de la Literatura (RSL) para identif
   - PubMed  
   - Scielo  
   - Google Scholar  
+
+  > Nota: Utilizar las IAs que estuvimos viendo en clase.
+
 
 ---
 
@@ -57,7 +60,7 @@ Aplicar el método de Revisión Sistemática de la Literatura (RSL) para identif
 ---
 
 ### 6. Aplicar filtros y criterios de selección  
-- Leer títulos y resúmenes.  
+- Leer títulos, resúmenes y conclusión.
 - Introducir **justificación de inclusión/exclusión**.  
 - Marcar en la planilla.  
 
