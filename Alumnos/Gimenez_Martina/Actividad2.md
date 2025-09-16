@@ -22,7 +22,7 @@ Busquedas realizadas:
 - modelos predictivos AND sesgos
 - big data AND sesgos
 
-5. Plantilla de resultados
+### Plantilla de resultados
 https://docs.google.com/spreadsheets/d/1ED8ORnXis9hMgDZr8uWQGMZJKd1A8d6sfUZZ0K7XB7A/edit?usp=sharing
 
 ### Informe con resultados encontrados
