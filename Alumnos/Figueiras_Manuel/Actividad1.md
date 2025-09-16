@@ -1,3 +1,35 @@
+## Alcance.
+El alcance del trabajo final está destinado a estudiar la población a nivel nacional, a través de datos abiertos de salud aplicacados a la detección temprana de enfermedades crónicas.
+
+## Objetivos
+
+# Objetivo General.
+El objetivo general del trabajo final es evaluar la aplicabilidad del uso de técnicas de
+machine learning en la detección temprana de enfermedades crónicas a partir de datos
+biométricos.
+
+# Objetivos Específicos.
+El trabajo final busca cumplir objetivos específicos que se heredan del objetivo general,
+ellos son:
+• Analizar modelos predictivos basados en aprendizaje automático que permitan
+identificar patrones asociados a enfermedades crónicas.
+• Identificar(evaluar) el impacto potencial de la implementación de estas herramientas
+en la mejora de la calidad de vida de las personas.
+
+## Problema de Investigación.
+Históricamente, las enfermedades crónicas constituyen una de las principales causas de
+mortalidad y discapacidad a nivel mundial. La detección temprana es esencial para mejorar la
+calidad de vida de los pacientes, pero los métodos tradicionales dependen en gran medida de la
+disponibilidad de recursos médicos especializados.
+El avance de las técnicas de aprendizaje automático (Machine Learning) y la creciente
+disponibilidad de datos biométricos ofrecen una oportunidad para desarrollar modelos
+predictivos que identifiquen patrones asociados a estas enfermedades de manera más precisa y
+eficiente. Sin embargo, existen desafíos en la validación y la adopción de estas herramientas en
+el ámbito médico.
+En este contexto, surge la necesidad de investigar cómo las técnicas de Machine Learning
+pueden aplicarse al análisis de datos biométricos para optimizar el diagnóstico temprano de
+enfermedades crónicas.
+
 ## Estado del Arte.
 La aplicación de técnicas de Machine Learning (ML) en la predicción de enfermedades
 crónicas ha adquirido gran relevancia en los últimos años, principalmente por su capacidad para
