@@ -46,8 +46,18 @@ Campos a completar:
 - **Source (name of publication)**: Revista, conferencia o libro.  
 - **Type of publication**: Journal, Book, Conference Proceedings, Report, etc.  
 - **Abstract**: Copiar el resumen del artículo.  
-- **¿Qué trabajos abordaron el tema central?**: Indicar si el artículo responde directamente a la pregunta de investigación.  
-- **¿Qué trabajos abordaron temas relacionados?**: Indicar si aporta información útil pero secundaria.  
+- **¿Qué trabajos abordaron el tema central?**:
+
+  Indicar si el artículo responde directamente a la pregunta de investigación.
+
+  Además, citar el texto (párrafo) del trabajo donde se referencia cuestiones de la temática central
+  
+- **¿Qué trabajos abordaron temas relacionados?**:
+
+  Indicar si aporta información útil pero secundaria.
+
+  Además, citar el texto (párrafo) del trabajo donde se referencia cuestiones de la temática secundaria.
+  
 - **IEEE Xplore / ACM Digital Library / ScienceDirect / CiteSeerX / Otra fuente**: Marcar con ✔ la fuente donde se encontró.  
 - **DOI**: Incluir el DOI o enlace permanente.  
 
