@@ -51,3 +51,19 @@ Rucci Enzo, T. G. (2024). Primeras Experiencias en la Identificación de Persona
 Diabetes en la Población Argentina usando Técnicas de Aprendizaje Automático. La
 Plata, Buenos Aires, Argentina. Obtenido de
 http://sedici.unlp.edu.ar/handle/10915/164889
+
+## Acronimos.
+Acrónimos.
+ANN: Redes Neuronales Artificiales (Artificial Neural Networks)
+AUC: Área Bajo la Curva (Area Under the Curve)
+DT: Árboles de Decisión (Decision Trees)
+EHR: Registros Electrónicos de Salud (Electronic Health Records)
+ENFR: Encuesta Nacional de Factores de Riesgo
+FL: Aprendizaje Federado (Federated Learning)
+GBT: Árboles Potenciados por Gradiente (Gradient Boosted Trees)
+ICBA: Instituto Cardiovascular de Buenos Aires
+ML: Aprendizaje Automático (Machine Learning)
+RF: Bosques Aleatorios (Random Forest)
+SCA: Síndrome Coronario Agudo
+SHAP: Explicaciones Aditivas de Shapley (SHapley Additive exPlanations)
+XAI: Inteligencia Artificial Explicable (Explainable Artificial Intelligence)
