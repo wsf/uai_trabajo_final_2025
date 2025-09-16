@@ -3,6 +3,10 @@
 ## 🎯 Objetivo  
 Practicar la **documentación y clasificación de artículos** encontrados durante la búsqueda sistemática, distinguiendo entre todos los trabajos relevados y los seleccionados para el análisis final.  
 
+### Material de lectura obligatorio.
+El alumno debe leer el material de estudio que se ecuentra en Ultra en la clase 8. 
+[Link hacia el material)[https://ultra.uaionline.edu.ar/ultra/courses/_147191_1/outline/edit/document/_14441135_1?courseId=_147191_1&view=content&state=view]
+
 ---
 
 ## 📂 Material de trabajo  
