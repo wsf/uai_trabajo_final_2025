@@ -29,6 +29,15 @@ Para buscar en las bases de datos información relevante realicé una selección
 
 * *Palabras Clave:* aprendizaje automático, diagnóstico temprano, enfermedades crónicas, salud digital, chronic diseases, digital health, early diagnosis, machine learning.
 
-* *Busquedas Realizadas:* 
+* *Estrategias de Busquedas:* 
+    
     Base de Datos: PubMed
-    Búsqueda: "machine learning" AND "early detection" AND "chronic diseases" AND "biometric data"
+    Búsqueda: "machine learning"  AND "chronic diseases"
+
+    Base de Datos: Perplexity
+    Búsqueda: "Deteccion" + "enfermedades crónicas " + " Machine learning" + "Argentina"
+    Búsqueda: "Chronic diseases" AND "Machine Learning"
+
+    Base de Datos: Google Scholar
+    Búsqueda:("predictive analytics" OR "machine learning") AND ("early detection") AND ("chronic diseases")
+
