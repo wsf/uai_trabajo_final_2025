@@ -42,18 +42,11 @@ Para buscar en las bases de datos información relevante realicé una selección
 
 * **Palabras Clave:** aprendizaje automático, diagnóstico temprano, enfermedades crónicas, salud digital, chronic diseases, digital health, early diagnosis, machine learning.
 
-<<<<<<< HEAD
-* **Busquedas Realizadas:** 
-    Base de Datos: PubMed, Google Scholar
-    Búsqueda: "machine learning" AND "early detection" AND "chronic diseases" AND "biometric data"
-=======
 * *Estrategias de Busquedas:* 
     
     Base de Datos: PubMed
     Búsqueda: "machine learning"  AND "chronic diseases"
->>>>>>> b7ec9dcaf2520b997d8137f872245b43af8bbb1c
 
-<<<<<<< HEAD
 # Planilla de Trabajos Relacionados.
 **https://docs.google.com/spreadsheets/d/1wyDs_zIY7EGj8UAMy4GmW8-OYSiUKuBjdd_aWpM4hMY/edit?usp=sharing**
 
@@ -96,13 +89,3 @@ A pesar de los resultados prometedores, la aplicación clínica del AA/DL enfren
     * Validación Externa: La mayoría de los modelos se han estudiado de forma retrospectiva. Es crucial validarlos en nuevas muestras de pacientes (diferentes centros o regiones) para asegurar que el rendimiento no esté sesgado por las particularidades del centro de entrenamiento.
     * Maldición de la Dimensionalidad: Si la relación entre la cantidad de instancias de datos y la cantidad de características (dimensiones) no es suficiente, el rendimiento del AA puede disminuir.
 
-=======
-    Base de Datos: Perplexity
-    Búsqueda: "Deteccion" + "enfermedades crónicas " + " Machine learning" + "Argentina"
-    Búsqueda: "Chronic diseases" AND "Machine Learning"
-
-    Base de Datos: Google Scholar
-    Búsqueda:("predictive analytics" OR "machine learning") AND ("early detection") AND ("chronic diseases")
-
-
->>>>>>> b7ec9dcaf2520b997d8137f872245b43af8bbb1c
