@@ -85,7 +85,10 @@ Las principales aplicaciones de DL en mHealth se enfocan en:
 * Desafíos en la Implementación:
 A pesar de los resultados prometedores, la aplicación clínica del AA/DL enfrenta barreras importantes:
     * Calidad de los Datos (GIGO): La viabilidad del uso de AA depende fundamentalmente de la calidad y fiabilidad de los datos recopilados; si los datos son deficientes ("garbage in"), los resultados lo serán ("garbage out").
+
     * Interpretabilidad (Caja Negra): Los modelos de DL a menudo carecen de transparencia sobre cómo llegan a una decisión, lo que dificulta la confianza y la adopción clínica (XAI o IA Explicable es necesaria).
+
     * Validación Externa: La mayoría de los modelos se han estudiado de forma retrospectiva. Es crucial validarlos en nuevas muestras de pacientes (diferentes centros o regiones) para asegurar que el rendimiento no esté sesgado por las particularidades del centro de entrenamiento.
+    
     * Maldición de la Dimensionalidad: Si la relación entre la cantidad de instancias de datos y la cantidad de características (dimensiones) no es suficiente, el rendimiento del AA puede disminuir.
 
