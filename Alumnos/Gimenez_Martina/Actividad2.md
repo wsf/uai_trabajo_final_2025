@@ -1,5 +1,5 @@
 ### Pregunta de investigacion
-¿Cómo influyen los sesgos en los modelos predictivos usados para segmentar y personalizar en marketing digital sobre la equidad, diversidad y efectividad de las campañas, y en qué medida las técnicas de auditoría y mitigación de sesgos, en comparación con modelos sin estas técnicas, mejoran estos resultados dentro del contexto del marketing digital?
+¿Cómo influyen los sesgos en los modelos predictivos usados para segmentar y personalizar en marketing digital sobre la efectividad de las campañas, y en qué medida las técnicas de auditoría y mitigación de sesgos, en comparación con modelos sin estas técnicas, mejoran estos resultados dentro del contexto del marketing digital?
 
 P (Población/Problema): Modelos predictivos aplicados a la segmentación y personalización en marketing digital
 I (Intervención): Técnicas cuantitativas y metodológicas para mitigar sesgos (auditoría, transparencia, responsabilidad)
