@@ -10,6 +10,7 @@ El alumno utilizará una herramienta de **Inteligencia Artificial (IA-LLM)** par
 1. Preparar los siguientes documentos en formato PDF:
    - **Borrador de su Trabajo Final** (versión actualizada)
    - **Rúbrica oficial** del Trabajo Final (archivo entregado por el docente)
+   [Link al pdf de Rúbrica](https://ultra.uaionline.edu.ar/ultra/courses/_147191_1/outline/edit/document/_14441148_1?courseId=_147191_1&view=content&state=view)
 
 2. Ingresar a una herramienta de IA generativa (ej.: ChatGPT, Claude, etc.).
 
