@@ -1,101 +1,43 @@
 # Alcance.
-El alcance del trabajo final está destinado a estudiar la población a nivel nacional, a través de datos abiertos de salud aplicacados a la detección temprana de enfermedades crónicas.
+El presente trabajo se centra en analizar cómo las técnicas de Machine Learning pueden aplicarse para apoyar la detección temprana de Diabetes Mellitus Tipo 2 a partir de datos biométricos básicos. El alcance incluye:
+
+Lo que sí abarca:
+
+- La revisión de literatura científica reciente sobre modelos predictivos aplicados a diabetes tipo 2.
+
+- La identificación de variables biométricas relevantes (como frecuencia cardíaca, presión arterial, IMC, actividad física, entre otras).
+
+- El análisis conceptual de algoritmos de ML utilizados en el diagnóstico temprano (Random Forest, SVM, Redes Neuronales, etc.).
+
+- La evaluación del potencial de adopción de estas tecnologías en el sistema de salud argentino.
+
+- La delimitación de los desafíos actuales: privacidad, calidad de datos, integración con sistemas clínicos, barreras institucionales.
 
 # Objetivos
 
 ## Objetivo General.
-El objetivo general del trabajo final es evaluar la aplicabilidad del uso de técnicas de
-machine learning en la detección temprana de enfermedades crónicas a partir de datos
-biométricos.
+Evaluar la aplicabilidad de modelos de Machine Learning para la detección temprana de Diabetes Tipo 2 a partir de datos biométricos, considerando su potencial implementación en el sistema de salud argentino.
 
 ## Objetivos Específicos.
 El trabajo final busca cumplir objetivos específicos que se heredan del objetivo general,
 ellos son:
-• Analizar modelos predictivos basados en aprendizaje automático que permitan
-identificar patrones asociados a enfermedades crónicas.
-• Identificar(evaluar) el impacto potencial de la implementación de estas herramientas
-en la mejora de la calidad de vida de las personas.
+* Identificar y analizar las variables biométricas más relevantes para la predicción de DM2.
+* Evaluar oportunidades y barreras para la adopción de estas tecnologías en Argentina.
 
 # Problema de Investigación.
-Históricamente, las enfermedades crónicas constituyen una de las principales causas de
-mortalidad y discapacidad a nivel mundial. La detección temprana es esencial para mejorar la
-calidad de vida de los pacientes, pero los métodos tradicionales dependen en gran medida de la
-disponibilidad de recursos médicos especializados.
-El avance de las técnicas de aprendizaje automático (Machine Learning) y la creciente
-disponibilidad de datos biométricos ofrecen una oportunidad para desarrollar modelos
-predictivos que identifiquen patrones asociados a estas enfermedades de manera más precisa y
-eficiente. Sin embargo, existen desafíos en la validación y la adopción de estas herramientas en
-el ámbito médico.
-En este contexto, surge la necesidad de investigar cómo las técnicas de Machine Learning
-pueden aplicarse al análisis de datos biométricos para optimizar el diagnóstico temprano de
-enfermedades crónicas.
+La Diabetes Mellitus Tipo 2 (DM2) es una de las enfermedades crónicas de mayor prevalencia en Argentina y el mundo, y su diagnóstico suele realizarse de manera tardía. Esto aumenta el riesgo de complicaciones cardiovasculares, renales y metabólicas.
+
+Aunque hoy existen múltiples fuentes de datos biométricos (actividad física, frecuencia cardíaca, presión arterial, IMC, hábitos), estos no se utilizan de manera sistemática dentro del sistema de salud argentino para la detección temprana.
+
+Los avances en Machine Learning permiten identificar patrones tempranos asociados al riesgo de DM2, pero su implementación aún es limitada por falta de modelos adaptados y evidencia local.
 
 # Estado del Arte.
-La aplicación de técnicas de Machine Learning (ML) en la predicción de enfermedades
-crónicas ha adquirido gran relevancia en los últimos años, principalmente por su capacidad para
-analizar grandes volúmenes de datos clínicos, ambientales, sociales y demográficos. Estas
-técnicas permiten anticipar el desarrollo de patologías como la diabetes tipo 2, enfermedades
-cardíacas, respiratorias y cáncer, entre otras.
-A nivel internacional, se ha desarrollado un enfoque basado en la integración de datos
-clínicos electrónicos (Electronic Health Records, EHR) y dispositivos wearables. Un trabajo
-destacado en esta línea es el de Oluwaferanmi (2025), quien comparó modelos como Random
-Forest (RF), Gradient Boosted Trees (GBT) y Redes Neuronales Artificiales (ANN), obteniendo
-métricas de precisión superiores al 90 %. Además, incorporó herramientas de interpretabilidad
-como SHAP (SHapley Additive exPlanations), que permiten comprender el aporte de cada
-variable a la predicción. El estudio también introdujo el concepto de aprendizaje federado (FL,
-por Federated Learning), como solución al problema de privacidad de datos clínicos sobre
-entornos hospitalarios.
-En Argentina, comienzan a emerger investigaciones que adaptan estos métodos al
-contexto local. Uno de los trabajos pioneros es el de Rucci Enzo (2024), quienes desarrollaron
-modelos de ML para detectar riesgo de diabetes tipo 2 y prediabetes en la población argentina.
-Utilizando tres conjuntos de datos balanceados, evaluaron algoritmos como RF, Árboles de
-Decisión (DT, por Decision Trees) y ANN. Los resultados fueron satisfactorios, destacándose
-RF y ANN como los más precisos. Sin embargo, los autores advierten que el tamaño reducido de
-la muestra y la presencia de valores faltantes limitan la generalización del modelo, y proponen
-como línea futura la ampliación de la base de datos y el uso de modelos explicables.
-En una línea similar, Perdomo y Ordinez (2024) analizaron datos de la Encuesta Nacional
-de Factores de Riesgo (ENFR) aplicando algoritmos supervisados para identificar variables
-asociadas al riesgo de diabetes en la provincia de Chubut. El estudio se orienta principalmente a
-fortalecer la toma de decisiones en salud pública.
-Respecto a enfermedades cardiovasculares, una investigación desarrollada en el Instituto
-Cardiovascular de Buenos Aires (ICBA) aplicó RF para predecir el riesgo de síndrome coronario
-agudo (SCA) en pacientes que acudieron a emergencias. El modelo alcanzó un Área Bajo la
-Curva (AUC, por Area Under the Curve) de 0.8991, con altos niveles de sensibilidad y
-especificidad, mostrando su potencial como herramienta de apoyo en el ámbito clínico (Polero, y
-otros, 2025).
-En conjunto, los estudios revisados demuestran avances prometedores en la aplicación de
-ML para la predicción de enfermedades crónicas en el contexto argentino. Sin embargo,
-persisten desafíos clave: la necesidad de bases de datos más amplias y diversas, la integración de
-técnicas explicables (XAI, por Explainable Artificial Intelligence) y la validación empírica de
-modelos en entornos clínicos reales. 
+La aplicación de Machine Learning en la detección temprana de Diabetes Tipo 2 ha crecido sustancialmente en los últimos años. A nivel internacional, diversos estudios han demostrado que algoritmos como Random Forest, Support Vector Machines y Redes Neuronales alcanzan altos niveles de precisión para predecir riesgo de DM2 utilizando datos biométricos y clínicos (Reyes León et al., 2020; Pekkala et al., 2017; Battineni, 2020; Triantafyllidis et al., 2024). Estos trabajos consolidan el valor del ML para anticipar la progresión de la enfermedad incluso antes de que aparezcan síntomas clínicos.
 
-# Referencias.
-Oluwaferanmi, A. (2025). AI-powered big data analytics for early detection of chronic diseases.
-Nigeria. Obtenido de https://www.researchgate.net/publication/392590882_AIPowered_Big_Data_Analytics_for_Early_Detection_of_Chronic_Diseases
-Perdomo, L., & Ordinez, L. (18-19 de Abril de 2024). Análisis de factores de riesgo de la
-diabetes en Chubut. 115-119. Puerto Madryn, Chubut, Argentina. Obtenido de
-http://sedici.unlp.edu.ar/handle/10915/176166
-Polero, L. D., Garmendia, C. M., Echegoyen, R. E., Alves De Lima, A., Bertón, F., Lambardi, F.,
-. . . al., e. (29 de Abril de 2025). Predicción de riesgo de sufrir un síndrome coronario
-agudo(ANGINA). 88. (D. J. Thierer, Ed.) CABA, Buenos Aires, Argentina.
-doi:https://doi.org/10.7775/rac.es.v88.i1.17193
-Rucci Enzo, T. G. (2024). Primeras Experiencias en la Identificación de Personas con Riesgo de
-Diabetes en la Población Argentina usando Técnicas de Aprendizaje Automático. La
-Plata, Buenos Aires, Argentina. Obtenido de
-http://sedici.unlp.edu.ar/handle/10915/164889
+En Latinoamérica, investigaciones como las desarrolladas en México, Colombia y Perú aplicaron modelos de ML a bases biométricas y sociodemográficas, obteniendo resultados prometedores para la identificación temprana de pacientes en riesgo (Saltillo, 2021; Uninorte, 2020; UCSM, 2022). Estos estudios destacan la necesidad de adaptar los modelos al contexto regional debido a variaciones poblacionales y disponibilidad de datos.
 
-# Acronimos.
-Acrónimos.
-ANN: Redes Neuronales Artificiales (Artificial Neural Networks)
-AUC: Área Bajo la Curva (Area Under the Curve)
-DT: Árboles de Decisión (Decision Trees)
-EHR: Registros Electrónicos de Salud (Electronic Health Records)
-ENFR: Encuesta Nacional de Factores de Riesgo
-FL: Aprendizaje Federado (Federated Learning)
-GBT: Árboles Potenciados por Gradiente (Gradient Boosted Trees)
-ICBA: Instituto Cardiovascular de Buenos Aires
-ML: Aprendizaje Automático (Machine Learning)
-RF: Bosques Aleatorios (Random Forest)
-SCA: Síndrome Coronario Agudo
-SHAP: Explicaciones Aditivas de Shapley (SHapley Additive exPlanations)
-XAI: Inteligencia Artificial Explicable (Explainable Artificial Intelligence)
+En Argentina, los aportes más significativos provienen de la Universidad Nacional de La Plata, donde Rucci et al. (2024) entrenaron modelos predictivos para riesgo de diabetes utilizando datos locales, alcanzando desempeños satisfactorios pero señalando limitaciones como tamaño muestral y ausencia de datos continuos provenientes de wearables. Otros trabajos nacionales analizan el potencial del ML en el cuidado de la salud y discuten desafíos para su adopción clínica, como calidad de datos, privacidad y validación externa.
+
+En conjunto, el estado del arte evidencia que el Machine Learning tiene un fuerte potencial para mejorar la detección temprana de la DM2, aunque su implementación en Argentina aún requiere madurez tecnológica, disponibilidad de datos biométricos y marcos normativos claros.
+
+
