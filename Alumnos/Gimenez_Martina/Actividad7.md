@@ -1,38 +1,10 @@
-Evaluación
-Criterio de evaluación	Nivel (A/B/C)	Puntaje asignado	Comentario breve basado en el contenido
-Título	A	5	El título refleja con precisión el contenido: el trabajo desarrolla exhaustivamente el sesgo de exposición en modelos predictivos aplicados al marketing digital.
-Resumen	A	15	Explica claramente el problema, el objetivo, qué hizo el trabajo, por qué es relevante y qué se aprendió; aborda causas, consecuencias y estrategias de mitigación. 
-
-TF - Borrador
-
-
-Palabras clave	B	3	Representan adecuadamente los temas principales, pero no provienen de IEEE o tesauros especializados. 
-
-TF - Borrador
-
-
-Introducción	A	15	Aborda qué se conoce, qué se desconoce, importancia, magnitud del problema, implicancias y aplicaciones; desarrolla la problemática y luego los objetivos generales y específicos. 
-
-TF - Borrador
-
-
-Desarrollo	A	35	Todas las afirmaciones se respaldan con análisis, métricas y bibliografía; se demuestra críticamente la existencia del problema, se articula estado del arte, se relaciona con trabajos previos, se explican aportes y vacancias. 
-
-TF - Borrador
-
-
-Conclusiones	A	10	Expone cómo los hallazgos modifican la comprensión del problema, presenta limitaciones de técnicas evaluadas, resume resultados y discute implicancias éticas y operativas. 
-
-TF - Borrador
-
-
-Trabajos futuros	B	5	El cierre contiene recomendaciones estratégicas y direcciones futuras implícitas, pero no existe una sección específica que estructure líneas de investigación. 
-
-TF - Borrador
-
-
-Referencias	B	3	Todas las citas del texto aparecen en la bibliografía y siguen un formato consistente; sin embargo, solo una parte del conjunto es reciente (2024, 2021), por debajo del 30% requerido. 
-
-TF - Borrador
-
-Puntaje Total: 91/100
+| Criterio de evaluación | Nivel (A/B/C) | Puntaje asignado | Comentario breve basado en el contenido                                                                                                                                                                                            |
+| ---------------------- | ------------- | ---------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Título**             | A             | 5                | El título refleja con precisión el contenido: el trabajo desarrolla exhaustivamente el sesgo de exposición en modelos predictivos aplicados al marketing digital.                                                                  |
+| **Resumen**            | A             | 15               | Explica claramente el problema, el objetivo, qué hizo el trabajo, por qué es relevante y qué se aprendió; aborda causas, consecuencias y estrategias de mitigación.                                                                |
+| **Palabras clave**     | B             | 3                | Representan adecuadamente los temas principales, pero no provienen de IEEE o tesauros especializados.                                                                                                                              |
+| **Introducción**       | A             | 15               | Aborda qué se conoce, qué se desconoce, importancia, magnitud del problema, implicancias y aplicaciones; desarrolla la problemática y luego los objetivos generales y específicos.                                                 |
+| **Desarrollo**         | A             | 35               | Todas las afirmaciones se respaldan con análisis, métricas y bibliografía; se demuestra críticamente la existencia del problema, se articula estado del arte, se relaciona con trabajos previos, se explican aportes y vacancias.  |
+| **Conclusiones**       | A             | 10               | Expone cómo los hallazgos modifican la comprensión del problema, presenta limitaciones de técnicas evaluadas, resume resultados y discute implicancias éticas y operativas.                                                        |
+| **Trabajos futuros**   | B             | 5                | El cierre contiene recomendaciones estratégicas y direcciones futuras implícitas, pero no existe una sección específica que estructure líneas de investigación.                                                                    |
+| **Referencias**        | B             | 3                | Todas las citas del texto aparecen en la bibliografía y siguen un formato consistente; sin embargo, solo una parte del conjunto es reciente (2024, 2021), por debajo del 30% requerido.                                            |
