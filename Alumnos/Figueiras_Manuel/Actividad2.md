@@ -32,7 +32,7 @@ C – Contexto: Estudios de predicción médica, sistemas de apoyo diagnóstico,
 ### Inclusión.
  * Trabajos empiricos de investigación avalado por profesionales medicos e informáticos, a través de papers cientificos, articulos, tesis.
  * Periodo de validez hasta 7 años desde su publicación.
- * Idiomas aceptados: español, ingles e italiano.
+ * Idiomas aceptados: español, ingles.
  * Población objetivo: fundamentalmente se busca a nivel nacional, se pueden complementar trabajos de indole internacional.
 
 ### Exclusión.
