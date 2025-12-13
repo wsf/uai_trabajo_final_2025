@@ -87,6 +87,6 @@ et al. (2025)           |                                           |    sistema
 
 Los aportes teóricos y empíricos revisados sustentan directamente el Trabajo Final desarrollado. En primer lugar, los fundamentos clínicos de la DM2 y la relevancia de la detección temprana justifican la elección del problema de investigación. En segundo lugar, la evidencia empírica demuestra que los datos biométricos constituyen una base válida para la construcción de modelos predictivos.
 
-Asimismo, los modelos y enfoques teóricos analizados respaldan la selección conceptual de algoritmos avanzados, como XGBoost y Random Forest, y la priorización de métricas clínicas relevantes, coherentes con los objetivos del estudio.
+Los modelos y enfoques teóricos analizados respaldan la selección conceptual de algoritmos avanzados, como XGBoost y Random Forest, y la priorización de métricas clínicas relevantes, coherentes con los objetivos del estudio.
 
 Finalmente, la incorporación del enfoque XAI se alinea con las recomendaciones actuales para la adopción de inteligencia artificial en salud, reforzando el carácter aplicado, ético y contextualizado del proyecto en el sistema sanitario argentino.
