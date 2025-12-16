@@ -199,7 +199,7 @@ Escala: 0 = no cumple | 0.5 = parcialmente | 1 = cumple  Umbral de inclusión: >
 | P01 | Perdomo & Ordinez (2024)          | 1  | 0.5 | 0.5 | 1  | 0.5 | 1  | 4.5   | Incluir  |
 | P02 | Aparicio-Montenegro et al. (2025) | 1  | 1   | 1   | 1  | 0.5 | 1  | 5.5   | Incluir  |
 | P03 | Gómez et al. (2019)               | 1  | 1   | 0.5 | 1  | 0.5 | 1  | 5.0   | Incluir  |
-| P04 | Rodríguez et al. (2022)           | 1  | 0.5 | 0.5 | 1  | 0.5 | 1  | 4.5   | Incluir  |
+| P04 | De la Rosa-De León et al. (2025)  | 1  | 1   | 1   | 1  | 1   | 1  | 6.0   | Incluir  |
 | P05 | Coaquira Flores et al. (2023)     | 1  | 1   | 1   | 1  | 1   | 1  | 6.0   | Incluir  |
 | P06 | Marín Ortega et al. (2023)        | 1  | 1   | 1   | 1  | 0.5 | 1  | 5.5   | Incluir  |
 | P07 | Colmenero Gómez Cambronero (2023) | 1  | 0.5 | 0.5 | 1  | 0.5 | 1  | 4.5   | Incluir  |
@@ -224,7 +224,7 @@ El conjunto de estudios cumple con los estándares mínimos requeridos para sust
 | P01 | Ponencia académica  | 2024 | WICC / SEDICI      | Factores de riesgo regionales | Regresión / análisis estadístico | Edad, IMC, antecedentes | OR, significancia   | Preventivo      | RQ1              |
 | P02 | Artículo científico | 2025 | SciELO             | Predicción poblacional        | ML supervisado                   | Variables clínicas      | Accuracy, AUC       | Salud pública   | RQ2, RQ4         |
 | P03 | Artículo científico | 2019 | SciELO Colombia    | Modelos predictivos crónicos  | Regresión, árboles               | Variables clínicas      | Accuracy            | Epidemiológico  | RQ3              |
-| P04 | Artículo científico | 2022 | Revista académica  | IoMT en diabetes              | No aplica (arquitectura)         | Sensores biomédicos     | No aplica           | Gestión clínica | RQ5              |
+| P04 | Artículo científico | 2025 | Revista académica  | Aprendizaje automático aplicado a la detección temprana de Diabetes mellitus tipo 2            | No aplica (arquitectura)         | Sensores biomédicos     | ML supervisdo         | Gestión clínica | RQ5              |
 | P05 | Artículo científico | 2023 | Revista académica  | Predicción de riesgo          | Naive Bayes                      | Variables clínicas      | Accuracy, Precision | Preventivo      | RQ3              |
 | P06 | Artículo científico | 2023 | Revista regional   | Diagnóstico temprano DM2      | RF, SVM                          | Biomarcadores           | Accuracy, Recall    | Clínico         | RQ2              |
 | P07 | Artículo académico  | 2023 | Repositorio        | Biomarcadores no glucémicos   | ML supervisado                   | Variables bioquímicas   | Accuracy            | Clínico         | RQ1              |
@@ -346,44 +346,36 @@ Como líneas de trabajo futuro, considero prioritario avanzar hacia la validaci�
 **Referencias.**
 
 P01
-Perdomo, L., & Ordinez, L. (2024). Análisis de factores de riesgo de la diabetes en Chubut. En Actas del XXVI Workshop de Investigadores en Ciencias de la Computación (pp. 115–119). Red de Universidades con Carreras en Informática.
-https://sedici.unlp.edu.ar/handle/10915/176166
+Perdomo, L., & Ordinez, L. (2024). Análisis de factores de riesgo de la diabetes en Chubut. En Actas del XXVI Workshop de Investigadores en Ciencias de la Computación (pp. 115–119). Red de Universidades con Carreras en Informática. https://sedici.unlp.edu.ar/handle/10915/176166
 
 P02
 Aparicio-Montenegro, P. R., Navarro-Andrade, M. G., León-Velarde, C. G., Morales-Romero, G. P., & Fernández-Flores, S. M. (2025). Modelos predictivos en la salud pública: El abordaje de la diabetes mediante la inteligencia artificial. Cuestiones Políticas, 43(82), 91–106.
 http://ve.scielo.org/pdf/cuespol/v43n82/2542-3185-cuespol-43-82-91.pdf
 
 P03
-Mejía Jessner Alexander, Oviedo-Benalcázar Mario Andrés, Ordoñez José Armando, Valencia José Fernando (2019). Aprendizaje automático aplicado a la predicción de diabetes mellitus, utilizando información socioeconómica y ambiental.
-http://www.scielo.org.co/pdf/rfnsp/v41n2/2256-3334-rfnsp-41-02-e06.pdf
+Mejía Jessner Alexander, Oviedo-Benalcázar Mario Andrés, Ordoñez José Armando, Valencia José Fernando (2019). Aprendizaje automático aplicado a la predicción de diabetes mellitus, utilizando información socioeconómica y ambiental. http://www.scielo.org.co/pdf/rfnsp/v41n2/2256-3334-rfnsp-41-02-e06.pdf
 
 P04
-Rodríguez Rodríguez, I., Campo Valera, M., & Rodríguez, J.-V. (2022). El Internet de las Cosas Médicas (IoMT): Una revolución tecnológica aplicable a la gestión de la diabetes mellitus.
-https://dialnet.unirioja.es/descarga/libro/973101.pdf
+De la Rosa-De León, H., Navarro-Acosta, J., & García-Calvillo, I. (2025). Aprendizaje automático aplicado a la detección temprana de Diabetes mellitus tipo 2: Caso Saltillo, México. Revista Internacional de Investigación e Innovación Tecnológica. https://revistas.uadec.mx/RIIIT/article/view/119
 
 P05
-Coaquira Flores, E. E., Torres Cruz, F., Coyla Idme, L., et al. (2023). Predicción de riesgo de diabetes mediante un modelo de aprendizaje automático basado en el clasificador ingenuo bayesiano.
-https://downloads.editoracientifica.com.br/articles/230412719.pdf
+Coaquira Flores, E. E., Torres Cruz, F., Coyla Idme, L., et al. (2023). Predicción de riesgo de diabetes mediante un modelo de aprendizaje automático basado en el clasificador ingenuo bayesiano. https://downloads.editoracientifica.com.br/articles/230412719.pdf
 
 P06
-Marín Ortega, L. F., Parra Faría, L. A., Nieto Bernal, W., & Gamarra Acosta, M. R. (2023). Implementación de un modelo de machine learning para el diagnóstico temprano de diabetes tipo 2.
-https://manglar.uninorte.edu.co/bitstream/handle/10584/13386/INFORME_FINAL_PF.pdf?sequence=1&isAllowed=y
+Marín Ortega, L. F., Parra Faría, L. A., Nieto Bernal, W., & Gamarra Acosta, M. R. (2023). Implementación de un modelo de machine learning para el diagnóstico temprano de diabetes tipo 2. https://manglar.uninorte.edu.co/bitstream/handle/10584/13386/INFORME_FINAL_PF.pdf?sequence=1&isAllowed=y
 
 P07
-Colmenero Gómez Cambronero, C. (2023). Aprendizaje automático para el diagnóstico de diabetes: Una exploración de biomarcadores no glucémicos.
-https://openaccess.uoc.edu/server/api/core/bitstreams/f50db58d-fc2e-4e64-83e3-18be11ab8795/content
+Colmenero Gómez Cambronero, C. (2023). Aprendizaje automático para el diagnóstico de diabetes: Una exploración de biomarcadores no glucémicos. https://openaccess.uoc.edu/server/api/core/bitstreams/f50db58d-fc2e-4e64-83e3-18be11ab8795/content
 
 P08
 Berrios Zúñiga, A. D. (2024). Predicción de la diabetes mediante aprendizaje de máquina con el uso de datos biométricos de estudiantes de pregrado de una universidad privada en la ciudad de Arequipa (Tesis de grado). Universidad Católica de Santa María.
 https://repositorio.ucsm.edu.pe/server/api/core/bitstreams/5536c414-796a-44ca-b233-a6dce91324bb/content
 
 P09
-Facuy Toledo, L. N. (2024). Modelo predictivo para la detección temprana de diabetes tipo II basado en registros electrónicos de salud. Universidad Católica de Santiago de Guayaquil.
-https://doi.org/10.64041/riidg.v3i4.30
+Facuy Toledo, L. N. (2024). Modelo predictivo para la detección temprana de diabetes tipo II basado en registros electrónicos de salud. Universidad Católica de Santiago de Guayaquil. https://doi.org/10.64041/riidg.v3i4.30
 
 P10
-Tittarelli, G. (2023). Primeras experiencias en la identificación de personas con riesgo de diabetes en la población argentina usando técnicas de aprendizaje automático (Tesina de grado). Facultad de Informática, Universidad Nacional de La Plata.
-https://sedici.unlp.edu.ar/bitstream/handle/10915/159884/Tesis.pdf-PDFA.pdf
+Tittarelli, G. (2023). Primeras experiencias en la identificación de personas con riesgo de diabetes en la población argentina usando técnicas de aprendizaje automático (Tesina de grado). Facultad de Informática, Universidad Nacional de La Plata. https://sedici.unlp.edu.ar/bitstream/handle/10915/159884/Tesis.pdf-PDFA.pdf
 
 P11
 Rucci, E., Tittarelli, G., Ronchetti, F., Elgart, J. F., Lanzarini, L., & Gagliardino, J. J. (2023). Primeras experiencias en la identificación de personas con riesgo de diabetes en la población argentina utilizando técnicas de aprendizaje automático.
@@ -391,17 +383,14 @@ https://sedici.unlp.edu.ar/bitstream/handle/10915/164889/Documento_completo.pdf-
 
 
 P12
-Galán Maroto, S. (2025). Detección precoz de la diabetes y predicción de complicaciones mediante técnicas de machine learning (Trabajo Fin de Máster). Universidad de Valladolid.
-https://uvadoc.uva.es/bitstream/handle/10324/79641/TFM-G2300.pdf
+Galán Maroto, S. (2025). Detección precoz de la diabetes y predicción de complicaciones mediante técnicas de machine learning (Trabajo Fin de Máster). Universidad de Valladolid. https://uvadoc.uva.es/bitstream/handle/10324/79641/TFM-G2300.pdf
 
 P13
 Guerrero Baque, M. J. (2025). Inteligencia artificial aplicada al diagnóstico temprano de enfermedades crónicas. Revista Académica, 3(1).
 https://doi.org/10.70577/tct2pv89
 
 P14
-Dieuzeide, G., Pugnaloni, N., Zambon, F., Delfino, M., Xynos, G., Martínez, E., & Tabares, M. (2025). Impacto económico de la diabetes y sus principales complicaciones en Argentina. Medicina (Buenos Aires), 85(4).
-https://www.medicinabuenosaires.com/revistas/vol85-25/n4/743.pdf
+Dieuzeide, G., Pugnaloni, N., Zambon, F., Delfino, M., Xynos, G., Martínez, E., & Tabares, M. (2025). Impacto económico de la diabetes y sus principales complicaciones en Argentina. Medicina (Buenos Aires), 85(4). https://www.medicinabuenosaires.com/revistas/vol85-25/n4/743.pdf
 
 P15
-Benito, B. (2025). Intervención de la inteligencia artificial en la diabetes. Revista Diabetes.
-https://www.revistadiabetes.org/wp-content/uploads/Intervencion-de-la-inteligencia-artificial-en-la-Diabetes.pdf
+Benito, B. (2025). Intervención de la inteligencia artificial en la diabetes. Revista Diabetes. https://www.revistadiabetes.org/wp-content/uploads/Intervencion-de-la-inteligencia-artificial-en-la-Diabetes.pdf
