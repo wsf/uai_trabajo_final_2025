@@ -354,7 +354,7 @@ Aparicio-Montenegro, P. R., Navarro-Andrade, M. G., León-Velarde, C. G., Morale
 http://ve.scielo.org/pdf/cuespol/v43n82/2542-3185-cuespol-43-82-91.pdf
 
 P03
-Gómez, L., et al. (2019). Aplicación de modelos predictivos en salud pública para enfermedades crónicas. Revista Facultad Nacional de Salud Pública, 41(2), e06.
+Mejía Jessner Alexander, Oviedo-Benalcázar Mario Andrés, Ordoñez José Armando, Valencia José Fernando (2019). Aprendizaje automático aplicado a la predicción de diabetes mellitus, utilizando información socioeconómica y ambiental.
 http://www.scielo.org.co/pdf/rfnsp/v41n2/2256-3334-rfnsp-41-02-e06.pdf
 
 P04
@@ -375,11 +375,11 @@ https://openaccess.uoc.edu/server/api/core/bitstreams/f50db58d-fc2e-4e64-83e3-18
 
 P08
 Berrios Zúñiga, A. D. (2024). Predicción de la diabetes mediante aprendizaje de máquina con el uso de datos biométricos de estudiantes de pregrado de una universidad privada en la ciudad de Arequipa (Tesis de grado). Universidad Católica de Santa María.
-https://repositorio.ucsm.edu.pe/server/
+https://repositorio.ucsm.edu.pe/server/api/core/bitstreams/5536c414-796a-44ca-b233-a6dce91324bb/content
 
 P09
 Facuy Toledo, L. N. (2024). Modelo predictivo para la detección temprana de diabetes tipo II basado en registros electrónicos de salud. Universidad Católica de Santiago de Guayaquil.
-https://riidg.org/index.php/1/article/download/30/51
+https://doi.org/10.64041/riidg.v3i4.30
 
 P10
 Tittarelli, G. (2023). Primeras experiencias en la identificación de personas con riesgo de diabetes en la población argentina usando técnicas de aprendizaje automático (Tesina de grado). Facultad de Informática, Universidad Nacional de La Plata.
